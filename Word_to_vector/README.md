@@ -1,11 +1,5 @@
 # Word_to_vector
 
-This directory will hold resources, code, and notebooks related to Word-to-Vector (word embedding) experiments.
+This folder contains code, data, and notes related to converting words to vector representations (word embeddings) for the Computer_Vision project.
 
-Structure suggestions:
-- data/      -> datasets and preprocessing scripts
-- notebooks/ -> exploratory notebooks
-- src/       -> implementation (training, evaluation)
-- README.md  -> this file
-
-Created by GitHub Copilot on user request.
+Add your scripts, notebooks, and model files here.
